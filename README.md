@@ -1,1 +1,10 @@
-# lk2020-starting-guide
+# Welcome to Laudekoodit 2020
+## About
+
+## Prizes
+
+## Timetable
+
+## Getting started
+
+
