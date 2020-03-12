@@ -28,6 +28,8 @@ The demo should be short and 5 minutes at most. During the demo please share you
 
 ## Rules & etiquette
 
+**Please be extra mindful of hygiene, washing your hands etc.**
+
  * Have fun
  * Drink in moderation 
  * Dont be an idiot
