@@ -5,7 +5,7 @@ Hello and welcome to laudekoodit! On this page you will find useful information 
 ## Getting started
 
   1. Gather your team
-  2. Register your team at TBA
+  2. Register your team at the registration desk
   3. Join our telegram group at https://t.me/laudekoodit
   4. Relax and wait for info
   5. While waiting you can familiarize yourself with our basic bot making guide for [java](https://github.com/Laudekoodit/lk2020-javabot) or [node.js](https://github.com/Laudekoodit/lk2020-nodebot) (we highly recommend using node if you can)
